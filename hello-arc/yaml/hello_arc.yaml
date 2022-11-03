@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Welcome to ArcBox. Its the best demo environment for Azure Arc!
+          value: Welcome to HCIBox. Its the best demo environment for Azure Stack HCI!
