@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Can we do PK today 
+          value: Welcome Simpson Strong-Tie to MTC
